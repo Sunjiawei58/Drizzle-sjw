@@ -1,0 +1,3618 @@
+this begin the log manager with user_id:0, session id:0
+Message:line:0 frame_count ok
+Message:load header success.
+Message:line:0 frame_count ok
+Message:load header success.
+Message:line:0 frame_count ok
+Message:load header success.
+Message:line:0 frame_count ok
+Message:load header success.
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       14
+
+Message:the size of update list is27
+Message:update takes        0
+Message:deep copy takes        0
+Message:      14
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       16
+
+Message:the size of update list is27
+Message:update takes        0
+Message:deep copy takes        0
+Message:      16
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       21
+
+Message:you are being attacked...
+Message:the size of update list is27
+Message:update takes        0
+Message:deep copy takes        0
+Message:      21
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       17
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      17
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        1
+Message:      13
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       11
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      11
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       11
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      11
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       11
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      11
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       11
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      11
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       18
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      18
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       11
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      11
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       11
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      11
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       15
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      15
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       15
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      15
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       11
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      11
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       11
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      11
+
+Message:      35
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       11
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      11
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        1
+Message:      14
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       14
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      14
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       14
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      14
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      35
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       14
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      14
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       14
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      14
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       14
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      14
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       15
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      15
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       15
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      15
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       16
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      16
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       19
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      19
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       19
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      19
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       18
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      18
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       23
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      23
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       22
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      22
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       21
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      21
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       17
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      17
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       17
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      17
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       24
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      24
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       14
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      14
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       18
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      18
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       16
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      16
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       15
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      15
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       18
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      18
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       15
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      16
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       16
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      16
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       17
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      17
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       27
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      27
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       16
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      16
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       14
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      14
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       22
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      22
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       20
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      20
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes        6
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       6
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      35
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      35
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       20
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      20
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       18
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      18
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       16
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      16
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       17
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      17
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       14
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      14
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       16
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      16
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       13
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      13
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       12
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      12
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       20
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      20
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       21
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      21
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       18
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      18
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        1
+
+Message:the draw(send) takes       18
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      18
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes       15
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:      15
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        4
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        1
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      35
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        1
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        1
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        4
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        3
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes        0
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:the total tw takes        0
+
+Message:the draw(send) takes        2
+
+Message:the size of update list is26
+Message:update takes        0
+Message:deep copy takes    

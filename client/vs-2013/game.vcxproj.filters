@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{3a5fd009-22a7-41af-bc3d-42f370b04a58}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Saucer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Logmanager2.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Clock.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager2.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Position.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectListIterator2.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectList2.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_Event.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_EventStep.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_WorldManager.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_Object.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_Manager.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_GraphicsManager.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_Color.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_InputManager.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_EventKeyBoard.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_EventCollision.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_Utility.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_EventOut.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_Frame.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_Sprite.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_ResourceManager.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_Box.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_Sound.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_Music.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="s_NetworkManager.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Saucer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Logmanager2.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Clock.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager2.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Position.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectListIterator2.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectList2.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="s_Event.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="s_EventStep.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="s_WorldManager.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="s_Object.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="s_Manager.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="s_GraphicsManager.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="s_Color.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="s_InputManager.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="s_EventKeyBoard.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="s_EventCollision.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="s_Utility.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="s_EventOut.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="s_Frame.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="s_Sprite.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="s_ResourceManager.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="s_Box.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="s_Sound.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="s_Music.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="s_NetworkManager.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

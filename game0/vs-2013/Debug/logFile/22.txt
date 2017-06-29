@@ -1,0 +1,7013 @@
+this begin the log manager with user_id:2, session id:2
+Message:line:0 frame_count ok
+Message:load header success.
+Message:line:0 frame_count ok
+Message:load header success.
+Message:line:0 frame_count ok
+Message:load header success.
+Message:line:0 frame_count ok
+Message:load header success.
+Message:the command bites are 0
+Message:pos is 50,10
+Message:pos is 50,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 49,10
+Message:pos is 49,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 49,10
+Message:pos is 48,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 48,10
+Message:pos is 48,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 48,10
+Message:pos is 47,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 47,10
+Message:pos is 46,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 47,10
+Message:pos is 46,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 47,10
+Message:pos is 45,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 46,10
+Message:pos is 45,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       1
+
+Message:      35
+
+Message:the command bites are 0
+Message:pos is 46,10
+Message:pos is 44,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       1
+
+Message:      35
+
+Message:the command bites are 0
+Message:pos is 45,10
+Message:pos is 43,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 45,10
+Message:pos is 43,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 45,10
+Message:pos is 42,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 44,10
+Message:pos is 42,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 44,10
+Message:pos is 41,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 43,10
+Message:pos is 40,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 43,10
+Message:pos is 40,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 43,10
+Message:pos is 39,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 42,10
+Message:pos is 39,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 42,10
+Message:pos is 38,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 41,10
+Message:pos is 37,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 41,10
+Message:pos is 37,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 41,10
+Message:pos is 36,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 40,10
+Message:pos is 36,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 40,10
+Message:pos is 35,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 39,10
+Message:pos is 34,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 39,10
+Message:pos is 34,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 39,10
+Message:pos is 33,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 38,10
+Message:pos is 33,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 38,10
+Message:pos is 32,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 37,10
+Message:pos is 31,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 37,10
+Message:pos is 31,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 37,10
+Message:pos is 30,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 36,10
+Message:pos is 30,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 36,10
+Message:pos is 29,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 35,10
+Message:pos is 28,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 35,10
+Message:pos is 28,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 35,10
+Message:pos is 27,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 34,10
+Message:pos is 27,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 34,10
+Message:pos is 26,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 33,10
+Message:pos is 25,14
+Message:pos is 5,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       1
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 41
+Message:key value is 74
+Message:the event time counter is 40
+Message:re-run 41 timeCounter
+Message:pos is 33,10
+Message:pos is 25,14
+Message:pos is 5,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 33,10
+Message:pos is 24,14
+Message:pos is 5,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 32,10
+Message:pos is 24,14
+Message:pos is 5,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 32,10
+Message:pos is 23,14
+Message:pos is 5,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 31,10
+Message:pos is 22,14
+Message:pos is 5,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 46
+Message:key value is 74
+Message:the event time counter is 45
+Message:re-run 46 timeCounter
+Message:pos is 31,10
+Message:pos is 22,14
+Message:pos is 5,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 31,10
+Message:pos is 21,14
+Message:pos is 5,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 30,10
+Message:pos is 21,14
+Message:pos is 5,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 30,10
+Message:pos is 20,14
+Message:pos is 5,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       1
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 50
+Message:key value is 74
+Message:the event time counter is 49
+Message:re-run 50 timeCounter
+Message:pos is 29,10
+Message:pos is 19,14
+Message:pos is 5,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 29,10
+Message:pos is 19,14
+Message:pos is 5,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 29,10
+Message:pos is 18,14
+Message:pos is 5,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 28,10
+Message:pos is 18,14
+Message:pos is 5,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 28,10
+Message:pos is 17,14
+Message:pos is 5,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 27,10
+Message:pos is 16,14
+Message:pos is 5,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 27,10
+Message:pos is 16,14
+Message:pos is 5,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       1
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 57
+Message:key value is 57
+Message:the event time counter is 56
+Message:there should be a bullet...
+Message:the bullet pos is 8,13
+Message:re-run 57 timeCounter
+Message:pos is 27,10
+Message:pos is 15,14
+Message:pos is 5,13
+Message:pos is 8,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 26,10
+Message:pos is 15,14
+Message:pos is 5,13
+Message:pos is 9,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 26,10
+Message:pos is 14,14
+Message:pos is 5,13
+Message:pos is 10,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 25,10
+Message:pos is 13,14
+Message:pos is 5,13
+Message:pos is 10,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 61
+Message:key value is 73
+Message:the event time counter is 60
+Message:re-run 61 timeCounter
+Message:there is a collision!...
+Message:the score is 1
+Message:pos is 25,10
+Message:pos is 13,14
+Message:pos is 5,12
+Message:pos is 11,13
+Message:the size of update list is1
+Message:there is a collision!...
+Message:the score is 1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 25,10
+Message:pos is 13,14
+Message:pos is 5,12
+Message:pos is 11,13
+Message:pos is 77,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 24,10
+Message:pos is 5,12
+Message:pos is 76,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 24,10
+Message:pos is 5,12
+Message:pos is 76,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 23,10
+Message:pos is 5,12
+Message:pos is 75,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 23,10
+Message:pos is 5,12
+Message:pos is 75,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 67
+Message:key value is 73
+Message:the event time counter is 65
+Message:re-run 66 timeCounter
+Message:re-run 67 timeCounter
+Message:pos is 23,10
+Message:pos is 5,11
+Message:pos is 74,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       1
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 22,10
+Message:pos is 5,11
+Message:pos is 74,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 22,10
+Message:pos is 5,11
+Message:pos is 74,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 21,10
+Message:pos is 5,11
+Message:pos is 73,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       3
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 71
+Message:key value is 73
+Message:the event time counter is 70
+Message:re-run 71 timeCounter
+Message:pos is 21,10
+Message:pos is 5,10
+Message:pos is 73,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 21,10
+Message:pos is 5,10
+Message:pos is 72,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 20,10
+Message:pos is 5,10
+Message:pos is 72,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 20,10
+Message:pos is 5,10
+Message:pos is 72,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 19,10
+Message:pos is 5,10
+Message:pos is 71,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 19,10
+Message:pos is 5,10
+Message:pos is 71,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:       2
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 77
+Message:key value is 57
+Message:the event time counter is 76
+Message:there should be a bullet...
+Message:the bullet pos is 8,10
+Message:re-run 77 timeCounter
+Message:pos is 19,10
+Message:pos is 5,10
+Message:pos is 70,3
+Message:pos is 8,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 18,10
+Message:pos is 5,10
+Message:pos is 70,3
+Message:pos is 9,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 18,10
+Message:pos is 5,10
+Message:pos is 70,3
+Message:pos is 10,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 17,10
+Message:pos is 5,10
+Message:pos is 69,3
+Message:pos is 10,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      35
+
+Message:the command bites are 0
+Message:pos is 17,10
+Message:pos is 5,10
+Message:pos is 69,3
+Message:pos is 11,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 17,10
+Message:pos is 5,10
+Message:pos is 68,3
+Message:pos is 11,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 83
+Message:key value is 73
+Message:the event time counter is 82
+Message:re-run 83 timeCounter
+Message:pos is 16,10
+Message:pos is 5,9
+Message:pos is 68,3
+Message:pos is 12,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 16,10
+Message:pos is 5,9
+Message:pos is 68,3
+Message:pos is 12,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 15,10
+Message:pos is 5,9
+Message:pos is 67,3
+Message:pos is 13,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 15,10
+Message:pos is 5,9
+Message:pos is 67,3
+Message:pos is 13,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 15,10
+Message:pos is 5,9
+Message:pos is 66,3
+Message:pos is 14,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 88
+Message:key value is 73
+Message:the event time counter is 87
+Message:re-run 88 timeCounter
+Message:there is a collision!...
+Message:the score is 2
+Message:pos is 14,10
+Message:pos is 5,8
+Message:pos is 66,3
+Message:pos is 14,10
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:there is a collision!...
+Message:the score is 2
+Message:the size of update list is4
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 14,10
+Message:pos is 5,8
+Message:pos is 66,3
+Message:pos is 14,10
+Message:pos is 76,9
+Message:pos is 72,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 65,3
+Message:pos is 75,9
+Message:pos is 71,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 65,3
+Message:pos is 75,9
+Message:pos is 71,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 64,3
+Message:pos is 74,9
+Message:pos is 70,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       3
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 93
+Message:key value is 73
+Message:the event time counter is 92
+Message:re-run 93 timeCounter
+Message:pos is 5,7
+Message:pos is 64,3
+Message:pos is 74,9
+Message:pos is 70,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,7
+Message:pos is 64,3
+Message:pos is 73,9
+Message:pos is 69,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,7
+Message:pos is 63,3
+Message:pos is 73,9
+Message:pos is 69,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,7
+Message:pos is 63,3
+Message:pos is 73,9
+Message:pos is 69,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,7
+Message:pos is 62,3
+Message:pos is 72,9
+Message:pos is 68,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 98
+Message:key value is 73
+Message:the event time counter is 97
+Message:re-run 98 timeCounter
+Message:pos is 5,6
+Message:pos is 62,3
+Message:pos is 72,9
+Message:pos is 68,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,6
+Message:pos is 62,3
+Message:pos is 71,9
+Message:pos is 67,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,6
+Message:pos is 61,3
+Message:pos is 71,9
+Message:pos is 67,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,6
+Message:pos is 61,3
+Message:pos is 71,9
+Message:pos is 67,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,6
+Message:pos is 60,3
+Message:pos is 70,9
+Message:pos is 66,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 103
+Message:key value is 73
+Message:the event time counter is 102
+Message:re-run 103 timeCounter
+Message:pos is 5,5
+Message:pos is 60,3
+Message:pos is 70,9
+Message:pos is 66,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,5
+Message:pos is 60,3
+Message:pos is 69,9
+Message:pos is 65,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,5
+Message:pos is 59,3
+Message:pos is 69,9
+Message:pos is 65,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,5
+Message:pos is 59,3
+Message:pos is 69,9
+Message:pos is 65,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,5
+Message:pos is 58,3
+Message:pos is 68,9
+Message:pos is 64,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 108
+Message:key value is 73
+Message:the event time counter is 107
+Message:re-run 108 timeCounter
+Message:pos is 5,4
+Message:pos is 58,3
+Message:pos is 68,9
+Message:pos is 64,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,4
+Message:pos is 58,3
+Message:pos is 67,9
+Message:pos is 63,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,4
+Message:pos is 57,3
+Message:pos is 67,9
+Message:pos is 63,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,4
+Message:pos is 57,3
+Message:pos is 67,9
+Message:pos is 63,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,4
+Message:pos is 56,3
+Message:pos is 66,9
+Message:pos is 62,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       3
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 113
+Message:key value is 73
+Message:the event time counter is 112
+Message:re-run 113 timeCounter
+Message:pos is 5,3
+Message:pos is 56,3
+Message:pos is 66,9
+Message:pos is 62,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,3
+Message:pos is 56,3
+Message:pos is 65,9
+Message:pos is 61,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,3
+Message:pos is 55,3
+Message:pos is 65,9
+Message:pos is 61,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,3
+Message:pos is 55,3
+Message:pos is 65,9
+Message:pos is 61,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,3
+Message:pos is 54,3
+Message:pos is 64,9
+Message:pos is 60,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 118
+Message:key value is 73
+Message:the event time counter is 117
+Message:re-run 118 timeCounter
+Message:pos is 5,2
+Message:pos is 54,3
+Message:pos is 64,9
+Message:pos is 60,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,2
+Message:pos is 54,3
+Message:pos is 63,9
+Message:pos is 59,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,2
+Message:pos is 53,3
+Message:pos is 63,9
+Message:pos is 59,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,2
+Message:pos is 53,3
+Message:pos is 63,9
+Message:pos is 59,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,2
+Message:pos is 52,3
+Message:pos is 62,9
+Message:pos is 58,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,2
+Message:pos is 52,3
+Message:pos is 62,9
+Message:pos is 58,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,2
+Message:pos is 52,3
+Message:pos is 61,9
+Message:pos is 57,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:       3
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 125
+Message:key value is 57
+Message:the event time counter is 124
+Message:there should be a bullet...
+Message:the bullet pos is 8,2
+Message:re-run 125 timeCounter
+Message:pos is 5,2
+Message:pos is 51,3
+Message:pos is 61,9
+Message:pos is 57,12
+Message:pos is 8,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       5
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,2
+Message:pos is 51,3
+Message:pos is 61,9
+Message:pos is 57,12
+Message:pos is 9,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,2
+Message:pos is 50,3
+Message:pos is 60,9
+Message:pos is 56,12
+Message:pos is 10,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,2
+Message:pos is 50,3
+Message:pos is 60,9
+Message:pos is 56,12
+Message:pos is 10,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 129
+Message:key value is 74
+Message:the event time counter is 128
+Message:re-run 129 timeCounter
+Message:pos is 5,3
+Message:pos is 50,3
+Message:pos is 59,9
+Message:pos is 55,12
+Message:pos is 11,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       5
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,3
+Message:pos is 49,3
+Message:pos is 59,9
+Message:pos is 55,12
+Message:pos is 11,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,3
+Message:pos is 49,3
+Message:pos is 59,9
+Message:pos is 55,12
+Message:pos is 12,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,3
+Message:pos is 48,3
+Message:pos is 58,9
+Message:pos is 54,12
+Message:pos is 12,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       5
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 133
+Message:key value is 74
+Message:the event time counter is 132
+Message:re-run 133 timeCounter
+Message:pos is 5,4
+Message:pos is 48,3
+Message:pos is 58,9
+Message:pos is 54,12
+Message:pos is 13,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,4
+Message:pos is 48,3
+Message:pos is 57,9
+Message:pos is 53,12
+Message:pos is 13,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,4
+Message:pos is 47,3
+Message:pos is 57,9
+Message:pos is 53,12
+Message:pos is 14,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,4
+Message:pos is 47,3
+Message:pos is 57,9
+Message:pos is 53,12
+Message:pos is 14,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,4
+Message:pos is 46,3
+Message:pos is 56,9
+Message:pos is 52,12
+Message:pos is 15,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       4
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 138
+Message:key value is 74
+Message:the event time counter is 137
+Message:re-run 138 timeCounter
+Message:pos is 5,5
+Message:pos is 46,3
+Message:pos is 56,9
+Message:pos is 52,12
+Message:pos is 15,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,5
+Message:pos is 46,3
+Message:pos is 55,9
+Message:pos is 51,12
+Message:pos is 16,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,5
+Message:pos is 45,3
+Message:pos is 55,9
+Message:pos is 51,12
+Message:pos is 16,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,5
+Message:pos is 45,3
+Message:pos is 55,9
+Message:pos is 51,12
+Message:pos is 17,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,5
+Message:pos is 44,3
+Message:pos is 54,9
+Message:pos is 50,12
+Message:pos is 17,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 143
+Message:key value is 74
+Message:the event time counter is 142
+Message:re-run 143 timeCounter
+Message:pos is 5,6
+Message:pos is 44,3
+Message:pos is 54,9
+Message:pos is 50,12
+Message:pos is 18,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,6
+Message:pos is 44,3
+Message:pos is 53,9
+Message:pos is 49,12
+Message:pos is 18,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,6
+Message:pos is 43,3
+Message:pos is 53,9
+Message:pos is 49,12
+Message:pos is 19,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,6
+Message:pos is 43,3
+Message:pos is 53,9
+Message:pos is 49,12
+Message:pos is 19,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,6
+Message:pos is 42,3
+Message:pos is 52,9
+Message:pos is 48,12
+Message:pos is 20,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 148
+Message:key value is 74
+Message:the event time counter is 147
+Message:re-run 148 timeCounter
+Message:pos is 5,7
+Message:pos is 42,3
+Message:pos is 52,9
+Message:pos is 48,12
+Message:pos is 20,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,7
+Message:pos is 42,3
+Message:pos is 51,9
+Message:pos is 47,12
+Message:pos is 21,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,7
+Message:pos is 41,3
+Message:pos is 51,9
+Message:pos is 47,12
+Message:pos is 21,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,7
+Message:pos is 41,3
+Message:pos is 51,9
+Message:pos is 47,12
+Message:pos is 22,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       5
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 152
+Message:key value is 74
+Message:the event time counter is 151
+Message:re-run 152 timeCounter
+Message:pos is 5,8
+Message:pos is 40,3
+Message:pos is 50,9
+Message:pos is 46,12
+Message:pos is 22,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 40,3
+Message:pos is 50,9
+Message:pos is 46,12
+Message:pos is 23,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 40,3
+Message:pos is 49,9
+Message:pos is 45,12
+Message:pos is 23,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 39,3
+Message:pos is 49,9
+Message:pos is 45,12
+Message:pos is 24,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 39,3
+Message:pos is 49,9
+Message:pos is 45,12
+Message:pos is 24,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 38,3
+Message:pos is 48,9
+Message:pos is 44,12
+Message:pos is 25,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 38,3
+Message:pos is 48,9
+Message:pos is 44,12
+Message:pos is 25,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 38,3
+Message:pos is 47,9
+Message:pos is 43,12
+Message:pos is 26,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 37,3
+Message:pos is 47,9
+Message:pos is 43,12
+Message:pos is 26,2
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       2
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 161
+Message:key value is 57
+Message:the event time counter is 160
+Message:there should be a bullet...
+Message:the bullet pos is 8,8
+Message:re-run 161 timeCounter
+Message:pos is 5,8
+Message:pos is 37,3
+Message:pos is 47,9
+Message:pos is 43,12
+Message:pos is 27,2
+Message:pos is 8,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 36,3
+Message:pos is 46,9
+Message:pos is 42,12
+Message:pos is 27,2
+Message:pos is 9,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 36,3
+Message:pos is 46,9
+Message:pos is 42,12
+Message:pos is 28,2
+Message:pos is 10,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 36,3
+Message:pos is 45,9
+Message:pos is 41,12
+Message:pos is 28,2
+Message:pos is 10,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 165
+Message:key value is 74
+Message:the event time counter is 164
+Message:re-run 165 timeCounter
+Message:pos is 5,9
+Message:pos is 35,3
+Message:pos is 45,9
+Message:pos is 41,12
+Message:pos is 29,2
+Message:pos is 11,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 35,3
+Message:pos is 45,9
+Message:pos is 41,12
+Message:pos is 29,2
+Message:pos is 11,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 34,3
+Message:pos is 44,9
+Message:pos is 40,12
+Message:pos is 30,2
+Message:pos is 12,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 34,3
+Message:pos is 44,9
+Message:pos is 40,12
+Message:pos is 30,2
+Message:pos is 12,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       2
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 34,3
+Message:pos is 43,9
+Message:pos is 39,12
+Message:pos is 31,2
+Message:pos is 13,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 170
+Message:key value is 74
+Message:the event time counter is 169
+Message:re-run 170 timeCounter
+Message:pos is 5,10
+Message:pos is 33,3
+Message:pos is 43,9
+Message:pos is 39,12
+Message:pos is 31,2
+Message:pos is 13,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 33,3
+Message:pos is 43,9
+Message:pos is 39,12
+Message:pos is 32,2
+Message:pos is 14,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 32,3
+Message:pos is 42,9
+Message:pos is 38,12
+Message:pos is 32,2
+Message:pos is 14,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:there is a collision!...
+Message:the score is 3
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 32,3
+Message:pos is 42,9
+Message:pos is 38,12
+Message:pos is 32,2
+Message:pos is 15,8
+Message:pos is 77,7
+Message:pos is 75,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       4
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 174
+Message:key value is 74
+Message:the event time counter is 173
+Message:re-run 174 timeCounter
+Message:pos is 5,11
+Message:pos is 41,9
+Message:pos is 37,12
+Message:pos is 15,8
+Message:pos is 76,7
+Message:pos is 74,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       5
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 41,9
+Message:pos is 37,12
+Message:pos is 16,8
+Message:pos is 76,7
+Message:pos is 74,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 41,9
+Message:pos is 37,12
+Message:pos is 16,8
+Message:pos is 75,7
+Message:pos is 73,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 40,9
+Message:pos is 36,12
+Message:pos is 17,8
+Message:pos is 75,7
+Message:pos is 73,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 40,9
+Message:pos is 36,12
+Message:pos is 17,8
+Message:pos is 74,7
+Message:pos is 72,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 179
+Message:key value is 74
+Message:the event time counter is 178
+Message:re-run 179 timeCounter
+Message:pos is 5,12
+Message:pos is 39,9
+Message:pos is 35,12
+Message:pos is 18,8
+Message:pos is 74,7
+Message:pos is 72,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 39,9
+Message:pos is 35,12
+Message:pos is 18,8
+Message:pos is 74,7
+Message:pos is 72,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 39,9
+Message:pos is 35,12
+Message:pos is 19,8
+Message:pos is 73,7
+Message:pos is 71,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 38,9
+Message:pos is 34,12
+Message:pos is 19,8
+Message:pos is 73,7
+Message:pos is 71,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 38,9
+Message:pos is 34,12
+Message:pos is 20,8
+Message:pos is 72,7
+Message:pos is 70,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 184
+Message:key value is 57
+Message:the event time counter is 183
+Message:there should be a bullet...
+Message:the bullet pos is 8,12
+Message:re-run 184 timeCounter
+Message:pos is 5,12
+Message:pos is 37,9
+Message:pos is 33,12
+Message:pos is 20,8
+Message:pos is 72,7
+Message:pos is 70,11
+Message:pos is 8,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 37,9
+Message:pos is 33,12
+Message:pos is 21,8
+Message:pos is 72,7
+Message:pos is 70,11
+Message:pos is 9,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 37,9
+Message:pos is 33,12
+Message:pos is 21,8
+Message:pos is 71,7
+Message:pos is 69,11
+Message:pos is 10,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 36,9
+Message:pos is 32,12
+Message:pos is 22,8
+Message:pos is 71,7
+Message:pos is 69,11
+Message:pos is 10,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 36,9
+Message:pos is 32,12
+Message:pos is 22,8
+Message:pos is 70,7
+Message:pos is 68,11
+Message:pos is 11,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 35,9
+Message:pos is 31,12
+Message:pos is 23,8
+Message:pos is 70,7
+Message:pos is 68,11
+Message:pos is 11,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 35,9
+Message:pos is 31,12
+Message:pos is 23,8
+Message:pos is 70,7
+Message:pos is 68,11
+Message:pos is 12,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 35,9
+Message:pos is 31,12
+Message:pos is 24,8
+Message:pos is 69,7
+Message:pos is 67,11
+Message:pos is 12,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 34,9
+Message:pos is 30,12
+Message:pos is 24,8
+Message:pos is 69,7
+Message:pos is 67,11
+Message:pos is 13,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 34,9
+Message:pos is 30,12
+Message:pos is 25,8
+Message:pos is 68,7
+Message:pos is 66,11
+Message:pos is 13,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 33,9
+Message:pos is 29,12
+Message:pos is 25,8
+Message:pos is 68,7
+Message:pos is 66,11
+Message:pos is 14,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       6
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 33,9
+Message:pos is 29,12
+Message:pos is 26,8
+Message:pos is 68,7
+Message:pos is 66,11
+Message:pos is 14,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 33,9
+Message:pos is 29,12
+Message:pos is 26,8
+Message:pos is 67,7
+Message:pos is 65,11
+Message:pos is 15,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 32,9
+Message:pos is 28,12
+Message:pos is 27,8
+Message:pos is 67,7
+Message:pos is 65,11
+Message:pos is 15,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 198
+Message:key value is 73
+Message:the event time counter is 197
+Message:re-run 198 timeCounter
+Message:pos is 5,11
+Message:pos is 32,9
+Message:pos is 28,12
+Message:pos is 27,8
+Message:pos is 66,7
+Message:pos is 64,11
+Message:pos is 16,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 31,9
+Message:pos is 27,12
+Message:pos is 28,8
+Message:pos is 66,7
+Message:pos is 64,11
+Message:pos is 16,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 31,9
+Message:pos is 27,12
+Message:pos is 28,8
+Message:pos is 66,7
+Message:pos is 64,11
+Message:pos is 17,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 31,9
+Message:pos is 27,12
+Message:pos is 29,8
+Message:pos is 65,7
+Message:pos is 63,11
+Message:pos is 17,12
+Message:the size of update list is1
+Message:there is a collision!...
+Message:the score is 4
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 31,9
+Message:pos is 26,12
+Message:pos is 29,8
+Message:pos is 65,7
+Message:pos is 63,11
+Message:pos is 18,12
+Message:pos is 77,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 203
+Message:key value is 73
+Message:the event time counter is 202
+Message:re-run 203 timeCounter
+Message:pos is 5,10
+Message:pos is 26,12
+Message:pos is 64,7
+Message:pos is 62,11
+Message:pos is 18,12
+Message:pos is 76,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 25,12
+Message:pos is 64,7
+Message:pos is 62,11
+Message:pos is 19,12
+Message:pos is 76,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 25,12
+Message:pos is 64,7
+Message:pos is 62,11
+Message:pos is 19,12
+Message:pos is 75,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 25,12
+Message:pos is 63,7
+Message:pos is 61,11
+Message:pos is 20,12
+Message:pos is 75,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 24,12
+Message:pos is 63,7
+Message:pos is 61,11
+Message:pos is 20,12
+Message:pos is 74,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 208
+Message:key value is 73
+Message:the event time counter is 207
+Message:re-run 208 timeCounter
+Message:pos is 5,9
+Message:pos is 24,12
+Message:pos is 62,7
+Message:pos is 60,11
+Message:pos is 21,12
+Message:pos is 74,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       6
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 23,12
+Message:pos is 62,7
+Message:pos is 60,11
+Message:pos is 21,12
+Message:pos is 74,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       6
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 23,12
+Message:pos is 62,7
+Message:pos is 60,11
+Message:pos is 22,12
+Message:pos is 73,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 23,12
+Message:pos is 61,7
+Message:pos is 59,11
+Message:pos is 22,12
+Message:pos is 73,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:there is a collision!...
+Message:the score is 5
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 22,12
+Message:pos is 61,7
+Message:pos is 59,11
+Message:pos is 22,12
+Message:pos is 72,9
+Message:pos is 69,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       5
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 60,7
+Message:pos is 58,11
+Message:pos is 72,9
+Message:pos is 68,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 60,7
+Message:pos is 58,11
+Message:pos is 72,9
+Message:pos is 68,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 60,7
+Message:pos is 58,11
+Message:pos is 71,9
+Message:pos is 67,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 216
+Message:key value is 74
+Message:the event time counter is 215
+Message:re-run 216 timeCounter
+Message:pos is 5,10
+Message:pos is 59,7
+Message:pos is 57,11
+Message:pos is 71,9
+Message:pos is 67,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       5
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 59,7
+Message:pos is 57,11
+Message:pos is 70,9
+Message:pos is 66,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 58,7
+Message:pos is 56,11
+Message:pos is 70,9
+Message:pos is 66,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 58,7
+Message:pos is 56,11
+Message:pos is 70,9
+Message:pos is 66,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       5
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 58,7
+Message:pos is 56,11
+Message:pos is 69,9
+Message:pos is 65,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       5
+
+Message:      35
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 57,7
+Message:pos is 55,11
+Message:pos is 69,9
+Message:pos is 65,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 57,7
+Message:pos is 55,11
+Message:pos is 68,9
+Message:pos is 64,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       5
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 56,7
+Message:pos is 54,11
+Message:pos is 68,9
+Message:pos is 64,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 56,7
+Message:pos is 54,11
+Message:pos is 68,9
+Message:pos is 64,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 56,7
+Message:pos is 54,11
+Message:pos is 67,9
+Message:pos is 63,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       2
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 226
+Message:key value is 74
+Message:the event time counter is 225
+Message:re-run 226 timeCounter
+Message:pos is 5,11
+Message:pos is 55,7
+Message:pos is 53,11
+Message:pos is 67,9
+Message:pos is 63,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 55,7
+Message:pos is 53,11
+Message:pos is 66,9
+Message:pos is 62,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 54,7
+Message:pos is 52,11
+Message:pos is 66,9
+Message:pos is 62,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 54,7
+Message:pos is 52,11
+Message:pos is 66,9
+Message:pos is 62,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 54,7
+Message:pos is 52,11
+Message:pos is 65,9
+Message:pos is 61,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 53,7
+Message:pos is 51,11
+Message:pos is 65,9
+Message:pos is 61,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:       2
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 232
+Message:key value is 57
+Message:the event time counter is 231
+Message:there should be a bullet...
+Message:the bullet pos is 8,11
+Message:re-run 232 timeCounter
+Message:pos is 5,11
+Message:pos is 53,7
+Message:pos is 51,11
+Message:pos is 64,9
+Message:pos is 60,12
+Message:pos is 8,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 52,7
+Message:pos is 50,11
+Message:pos is 64,9
+Message:pos is 60,12
+Message:pos is 9,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 52,7
+Message:pos is 50,11
+Message:pos is 64,9
+Message:pos is 60,12
+Message:pos is 10,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 52,7
+Message:pos is 50,11
+Message:pos is 63,9
+Message:pos is 59,12
+Message:pos is 10,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 51,7
+Message:pos is 49,11
+Message:pos is 63,9
+Message:pos is 59,12
+Message:pos is 11,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 51,7
+Message:pos is 49,11
+Message:pos is 62,9
+Message:pos is 58,12
+Message:pos is 11,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 50,7
+Message:pos is 48,11
+Message:pos is 62,9
+Message:pos is 58,12
+Message:pos is 12,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 239
+Message:key value is 74
+Message:the event time counter is 238
+Message:re-run 239 timeCounter
+Message:pos is 5,12
+Message:pos is 50,7
+Message:pos is 48,11
+Message:pos is 62,9
+Message:pos is 58,12
+Message:pos is 12,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       6
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 50,7
+Message:pos is 48,11
+Message:pos is 61,9
+Message:pos is 57,12
+Message:pos is 13,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 49,7
+Message:pos is 47,11
+Message:pos is 61,9
+Message:pos is 57,12
+Message:pos is 13,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 49,7
+Message:pos is 47,11
+Message:pos is 60,9
+Message:pos is 56,12
+Message:pos is 14,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 48,7
+Message:pos is 46,11
+Message:pos is 60,9
+Message:pos is 56,12
+Message:pos is 14,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 48,7
+Message:pos is 46,11
+Message:pos is 60,9
+Message:pos is 56,12
+Message:pos is 15,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 48,7
+Message:pos is 46,11
+Message:pos is 59,9
+Message:pos is 55,12
+Message:pos is 15,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       5
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 47,7
+Message:pos is 45,11
+Message:pos is 59,9
+Message:pos is 55,12
+Message:pos is 16,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 47,7
+Message:pos is 45,11
+Message:pos is 58,9
+Message:pos is 54,12
+Message:pos is 16,11
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       4
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 248
+Message:key value is 57
+Message:the event time counter is 247
+Message:there should be a bullet...
+Message:the bullet pos is 8,12
+Message:re-run 248 timeCounter
+Message:pos is 5,12
+Message:pos is 46,7
+Message:pos is 44,11
+Message:pos is 58,9
+Message:pos is 54,12
+Message:pos is 17,11
+Message:pos is 8,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 46,7
+Message:pos is 44,11
+Message:pos is 58,9
+Message:pos is 54,12
+Message:pos is 17,11
+Message:pos is 9,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 46,7
+Message:pos is 44,11
+Message:pos is 57,9
+Message:pos is 53,12
+Message:pos is 18,11
+Message:pos is 10,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       6
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 45,7
+Message:pos is 43,11
+Message:pos is 57,9
+Message:pos is 53,12
+Message:pos is 18,11
+Message:pos is 10,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,12
+Message:pos is 45,7
+Message:pos is 43,11
+Message:pos is 56,9
+Message:pos is 52,12
+Message:pos is 19,11
+Message:pos is 11,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 253
+Message:key value is 73
+Message:the event time counter is 252
+Message:re-run 253 timeCounter
+Message:pos is 5,11
+Message:pos is 44,7
+Message:pos is 42,11
+Message:pos is 56,9
+Message:pos is 52,12
+Message:pos is 19,11
+Message:pos is 11,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 44,7
+Message:pos is 42,11
+Message:pos is 56,9
+Message:pos is 52,12
+Message:pos is 20,11
+Message:pos is 12,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 44,7
+Message:pos is 42,11
+Message:pos is 55,9
+Message:pos is 51,12
+Message:pos is 20,11
+Message:pos is 12,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 43,7
+Message:pos is 41,11
+Message:pos is 55,9
+Message:pos is 51,12
+Message:pos is 21,11
+Message:pos is 13,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 43,7
+Message:pos is 41,11
+Message:pos is 54,9
+Message:pos is 50,12
+Message:pos is 21,11
+Message:pos is 13,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,11
+Message:pos is 42,7
+Message:pos is 40,11
+Message:pos is 54,9
+Message:pos is 50,12
+Message:pos is 22,11
+Message:pos is 14,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       5
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 259
+Message:key value is 73
+Message:the event time counter is 258
+Message:re-run 259 timeCounter
+Message:pos is 5,10
+Message:pos is 42,7
+Message:pos is 40,11
+Message:pos is 54,9
+Message:pos is 50,12
+Message:pos is 22,11
+Message:pos is 14,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       5
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 42,7
+Message:pos is 40,11
+Message:pos is 53,9
+Message:pos is 49,12
+Message:pos is 23,11
+Message:pos is 15,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 41,7
+Message:pos is 39,11
+Message:pos is 53,9
+Message:pos is 49,12
+Message:pos is 23,11
+Message:pos is 15,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 41,7
+Message:pos is 39,11
+Message:pos is 52,9
+Message:pos is 48,12
+Message:pos is 24,11
+Message:pos is 16,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 263
+Message:key value is 73
+Message:the event time counter is 262
+Message:re-run 263 timeCounter
+Message:pos is 5,9
+Message:pos is 40,7
+Message:pos is 38,11
+Message:pos is 52,9
+Message:pos is 48,12
+Message:pos is 24,11
+Message:pos is 16,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 40,7
+Message:pos is 38,11
+Message:pos is 52,9
+Message:pos is 48,12
+Message:pos is 25,11
+Message:pos is 17,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 40,7
+Message:pos is 38,11
+Message:pos is 51,9
+Message:pos is 47,12
+Message:pos is 25,11
+Message:pos is 17,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       5
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 39,7
+Message:pos is 37,11
+Message:pos is 51,9
+Message:pos is 47,12
+Message:pos is 26,11
+Message:pos is 18,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 267
+Message:key value is 73
+Message:the event time counter is 266
+Message:re-run 267 timeCounter
+Message:pos is 5,8
+Message:pos is 39,7
+Message:pos is 37,11
+Message:pos is 50,9
+Message:pos is 46,12
+Message:pos is 26,11
+Message:pos is 18,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 38,7
+Message:pos is 36,11
+Message:pos is 50,9
+Message:pos is 46,12
+Message:pos is 27,11
+Message:pos is 19,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 38,7
+Message:pos is 36,11
+Message:pos is 50,9
+Message:pos is 46,12
+Message:pos is 27,11
+Message:pos is 19,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 38,7
+Message:pos is 36,11
+Message:pos is 49,9
+Message:pos is 45,12
+Message:pos is 28,11
+Message:pos is 20,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 37,7
+Message:pos is 35,11
+Message:pos is 49,9
+Message:pos is 45,12
+Message:pos is 28,11
+Message:pos is 20,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 272
+Message:key value is 73
+Message:the event time counter is 271
+Message:re-run 272 timeCounter
+Message:pos is 5,7
+Message:pos is 37,7
+Message:pos is 35,11
+Message:pos is 48,9
+Message:pos is 44,12
+Message:pos is 29,11
+Message:pos is 21,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,7
+Message:pos is 36,7
+Message:pos is 34,11
+Message:pos is 48,9
+Message:pos is 44,12
+Message:pos is 29,11
+Message:pos is 21,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,7
+Message:pos is 36,7
+Message:pos is 34,11
+Message:pos is 48,9
+Message:pos is 44,12
+Message:pos is 30,11
+Message:pos is 22,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       2
+
+Message:      35
+
+Message:the command bites are 0
+Message:pos is 5,7
+Message:pos is 36,7
+Message:pos is 34,11
+Message:pos is 47,9
+Message:pos is 43,12
+Message:pos is 30,11
+Message:pos is 22,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,7
+Message:pos is 35,7
+Message:pos is 33,11
+Message:pos is 47,9
+Message:pos is 43,12
+Message:pos is 31,11
+Message:pos is 23,12
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 277
+Message:key value is 57
+Message:the event time counter is 276
+Message:there should be a bullet...
+Message:the bullet pos is 8,7
+Message:re-run 277 timeCounter
+Message:there is a collision!...
+Message:the score is 6
+Message:pos is 5,7
+Message:pos is 35,7
+Message:pos is 33,11
+Message:pos is 46,9
+Message:pos is 42,12
+Message:pos is 31,11
+Message:pos is 23,12
+Message:pos is 8,7
+Message:the size of update list is1
+Message:the size of update list is2
+Message:there is a collision!...
+Message:the score is 6
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,7
+Message:pos is 34,7
+Message:pos is 33,11
+Message:pos is 46,9
+Message:pos is 42,12
+Message:pos is 32,11
+Message:pos is 24,12
+Message:pos is 9,7
+Message:pos is 77,4
+Message:pos is 77,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,7
+Message:pos is 34,7
+Message:pos is 46,9
+Message:pos is 42,12
+Message:pos is 24,12
+Message:pos is 10,7
+Message:pos is 76,4
+Message:pos is 76,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       2
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,7
+Message:pos is 34,7
+Message:pos is 45,9
+Message:pos is 41,12
+Message:pos is 25,12
+Message:pos is 10,7
+Message:pos is 76,4
+Message:pos is 76,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,7
+Message:pos is 33,7
+Message:pos is 45,9
+Message:pos is 41,12
+Message:pos is 25,12
+Message:pos is 11,7
+Message:pos is 75,4
+Message:pos is 75,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,7
+Message:pos is 33,7
+Message:pos is 44,9
+Message:pos is 40,12
+Message:pos is 26,12
+Message:pos is 11,7
+Message:pos is 75,4
+Message:pos is 75,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,7
+Message:pos is 32,7
+Message:pos is 44,9
+Message:pos is 40,12
+Message:pos is 26,12
+Message:pos is 12,7
+Message:pos is 74,4
+Message:pos is 74,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,7
+Message:pos is 32,7
+Message:pos is 44,9
+Message:pos is 40,12
+Message:pos is 27,12
+Message:pos is 12,7
+Message:pos is 74,4
+Message:pos is 74,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       6
+
+Message:      33
+
+Message:the command bites are 20
+Message:current time counter is 285
+Message:key value is 74
+Message:the event time counter is 284
+Message:re-run 285 timeCounter
+Message:pos is 5,8
+Message:pos is 32,7
+Message:pos is 43,9
+Message:pos is 39,12
+Message:pos is 27,12
+Message:pos is 13,7
+Message:pos is 74,4
+Message:pos is 74,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       6
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 31,7
+Message:pos is 43,9
+Message:pos is 39,12
+Message:pos is 28,12
+Message:pos is 13,7
+Message:pos is 73,4
+Message:pos is 73,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 31,7
+Message:pos is 42,9
+Message:pos is 38,12
+Message:pos is 28,12
+Message:pos is 14,7
+Message:pos is 73,4
+Message:pos is 73,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 30,7
+Message:pos is 42,9
+Message:pos is 38,12
+Message:pos is 29,12
+Message:pos is 14,7
+Message:pos is 72,4
+Message:pos is 72,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 30,7
+Message:pos is 42,9
+Message:pos is 38,12
+Message:pos is 29,12
+Message:pos is 15,7
+Message:pos is 72,4
+Message:pos is 72,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       3
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 290
+Message:key value is 74
+Message:the event time counter is 289
+Message:re-run 290 timeCounter
+Message:pos is 5,9
+Message:pos is 30,7
+Message:pos is 41,9
+Message:pos is 37,12
+Message:pos is 30,12
+Message:pos is 15,7
+Message:pos is 72,4
+Message:pos is 72,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 29,7
+Message:pos is 41,9
+Message:pos is 37,12
+Message:pos is 30,12
+Message:pos is 16,7
+Message:pos is 71,4
+Message:pos is 71,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 29,7
+Message:pos is 40,9
+Message:pos is 36,12
+Message:pos is 31,12
+Message:pos is 16,7
+Message:pos is 71,4
+Message:pos is 71,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       6
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 28,7
+Message:pos is 40,9
+Message:pos is 36,12
+Message:pos is 31,12
+Message:pos is 17,7
+Message:pos is 70,4
+Message:pos is 70,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 28,7
+Message:pos is 40,9
+Message:pos is 36,12
+Message:pos is 32,12
+Message:pos is 17,7
+Message:pos is 70,4
+Message:pos is 70,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       5
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 295
+Message:key value is 57
+Message:the event time counter is 294
+Message:there should be a bullet...
+Message:the bullet pos is 8,9
+Message:re-run 295 timeCounter
+Message:pos is 5,9
+Message:pos is 28,7
+Message:pos is 39,9
+Message:pos is 35,12
+Message:pos is 32,12
+Message:pos is 18,7
+Message:pos is 70,4
+Message:pos is 70,9
+Message:pos is 8,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:the size of update list is9
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 27,7
+Message:pos is 39,9
+Message:pos is 35,12
+Message:pos is 33,12
+Message:pos is 18,7
+Message:pos is 69,4
+Message:pos is 69,9
+Message:pos is 9,9
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:there is a collision!...
+Message:the score is 7
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:the size of update list is9
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 27,7
+Message:pos is 38,9
+Message:pos is 35,12
+Message:pos is 33,12
+Message:pos is 19,7
+Message:pos is 69,4
+Message:pos is 69,9
+Message:pos is 10,9
+Message:pos is 78,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       6
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 26,7
+Message:pos is 38,9
+Message:pos is 19,7
+Message:pos is 68,4
+Message:pos is 68,9
+Message:pos is 10,9
+Message:pos is 77,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 26,7
+Message:pos is 38,9
+Message:pos is 20,7
+Message:pos is 68,4
+Message:pos is 68,9
+Message:pos is 11,9
+Message:pos is 77,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 26,7
+Message:pos is 37,9
+Message:pos is 20,7
+Message:pos is 68,4
+Message:pos is 68,9
+Message:pos is 11,9
+Message:pos is 76,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 25,7
+Message:pos is 37,9
+Message:pos is 21,7
+Message:pos is 67,4
+Message:pos is 67,9
+Message:pos is 12,9
+Message:pos is 76,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 25,7
+Message:pos is 36,9
+Message:pos is 21,7
+Message:pos is 67,4
+Message:pos is 67,9
+Message:pos is 12,9
+Message:pos is 75,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       4
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 303
+Message:key value is 74
+Message:the event time counter is 302
+Message:re-run 303 timeCounter
+Message:pos is 5,10
+Message:pos is 24,7
+Message:pos is 36,9
+Message:pos is 22,7
+Message:pos is 66,4
+Message:pos is 66,9
+Message:pos is 13,9
+Message:pos is 75,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 24,7
+Message:pos is 36,9
+Message:pos is 22,7
+Message:pos is 66,4
+Message:pos is 66,9
+Message:pos is 13,9
+Message:pos is 75,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 24,7
+Message:pos is 35,9
+Message:pos is 23,7
+Message:pos is 66,4
+Message:pos is 66,9
+Message:pos is 14,9
+Message:pos is 74,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 23,7
+Message:pos is 35,9
+Message:pos is 23,7
+Message:pos is 65,4
+Message:pos is 65,9
+Message:pos is 14,9
+Message:pos is 74,3
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:there is a collision!...
+Message:the score is 8
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 23,7
+Message:pos is 34,9
+Message:pos is 23,7
+Message:pos is 65,4
+Message:pos is 65,9
+Message:pos is 15,9
+Message:pos is 73,3
+Message:pos is 77,6
+Message:pos is 78,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       5
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 34,9
+Message:pos is 64,4
+Message:pos is 64,9
+Message:pos is 15,9
+Message:pos is 73,3
+Message:pos is 76,6
+Message:pos is 77,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       6
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 34,9
+Message:pos is 64,4
+Message:pos is 64,9
+Message:pos is 16,9
+Message:pos is 73,3
+Message:pos is 76,6
+Message:pos is 77,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 33,9
+Message:pos is 64,4
+Message:pos is 64,9
+Message:pos is 16,9
+Message:pos is 72,3
+Message:pos is 75,6
+Message:pos is 76,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       7
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 33,9
+Message:pos is 63,4
+Message:pos is 63,9
+Message:pos is 17,9
+Message:pos is 72,3
+Message:pos is 75,6
+Message:pos is 76,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       5
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 32,9
+Message:pos is 63,4
+Message:pos is 63,9
+Message:pos is 17,9
+Message:pos is 71,3
+Message:pos is 74,6
+Message:pos is 75,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       5
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 32,9
+Message:pos is 62,4
+Message:pos is 62,9
+Message:pos is 18,9
+Message:pos is 71,3
+Message:pos is 74,6
+Message:pos is 75,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       5
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 32,9
+Message:pos is 62,4
+Message:pos is 62,9
+Message:pos is 18,9
+Message:pos is 71,3
+Message:pos is 74,6
+Message:pos is 75,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       5
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 31,9
+Message:pos is 62,4
+Message:pos is 62,9
+Message:pos is 19,9
+Message:pos is 70,3
+Message:pos is 73,6
+Message:pos is 74,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 31,9
+Message:pos is 61,4
+Message:pos is 61,9
+Message:pos is 19,9
+Message:pos is 70,3
+Message:pos is 73,6
+Message:pos is 74,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       5
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 30,9
+Message:pos is 61,4
+Message:pos is 61,9
+Message:pos is 20,9
+Message:pos is 69,3
+Message:pos is 72,6
+Message:pos is 73,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 30,9
+Message:pos is 60,4
+Message:pos is 60,9
+Message:pos is 20,9
+Message:pos is 69,3
+Message:pos is 72,6
+Message:pos is 73,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       7
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 30,9
+Message:pos is 60,4
+Message:pos is 60,9
+Message:pos is 21,9
+Message:pos is 69,3
+Message:pos is 72,6
+Message:pos is 73,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 29,9
+Message:pos is 60,4
+Message:pos is 60,9
+Message:pos is 21,9
+Message:pos is 68,3
+Message:pos is 71,6
+Message:pos is 72,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,10
+Message:pos is 29,9
+Message:pos is 59,4
+Message:pos is 59,9
+Message:pos is 22,9
+Message:pos is 68,3
+Message:pos is 71,6
+Message:pos is 72,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       4
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 322
+Message:key value is 73
+Message:the event time counter is 321
+Message:re-run 322 timeCounter
+Message:pos is 5,9
+Message:pos is 28,9
+Message:pos is 59,4
+Message:pos is 59,9
+Message:pos is 22,9
+Message:pos is 67,3
+Message:pos is 70,6
+Message:pos is 71,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 28,9
+Message:pos is 58,4
+Message:pos is 58,9
+Message:pos is 23,9
+Message:pos is 67,3
+Message:pos is 70,6
+Message:pos is 71,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       6
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 28,9
+Message:pos is 58,4
+Message:pos is 58,9
+Message:pos is 23,9
+Message:pos is 67,3
+Message:pos is 70,6
+Message:pos is 71,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 27,9
+Message:pos is 58,4
+Message:pos is 58,9
+Message:pos is 24,9
+Message:pos is 66,3
+Message:pos is 69,6
+Message:pos is 70,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 27,9
+Message:pos is 57,4
+Message:pos is 57,9
+Message:pos is 24,9
+Message:pos is 66,3
+Message:pos is 69,6
+Message:pos is 70,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 26,9
+Message:pos is 57,4
+Message:pos is 57,9
+Message:pos is 25,9
+Message:pos is 65,3
+Message:pos is 68,6
+Message:pos is 69,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       5
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,9
+Message:pos is 26,9
+Message:pos is 56,4
+Message:pos is 56,9
+Message:pos is 25,9
+Message:pos is 65,3
+Message:pos is 68,6
+Message:pos is 69,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:there is a collision!...
+Message:the score is 9
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       4
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 329
+Message:key value is 73
+Message:the event time counter is 328
+Message:re-run 329 timeCounter
+Message:pos is 5,8
+Message:pos is 26,9
+Message:pos is 56,4
+Message:pos is 56,9
+Message:pos is 25,9
+Message:pos is 65,3
+Message:pos is 68,6
+Message:pos is 69,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 25,9
+Message:pos is 56,4
+Message:pos is 56,9
+Message:pos is 25,9
+Message:pos is 64,3
+Message:pos is 67,6
+Message:pos is 68,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:there is a collision!...
+Message:the score is 10
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:the size of update list is8
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 25,9
+Message:pos is 55,4
+Message:pos is 55,9
+Message:pos is 25,9
+Message:pos is 64,3
+Message:pos is 67,6
+Message:pos is 68,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 55,4
+Message:pos is 55,9
+Message:pos is 63,3
+Message:pos is 66,6
+Message:pos is 67,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 54,4
+Message:pos is 54,9
+Message:pos is 63,3
+Message:pos is 66,6
+Message:pos is 67,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 54,4
+Message:pos is 54,9
+Message:pos is 63,3
+Message:pos is 66,6
+Message:pos is 67,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 54,4
+Message:pos is 54,9
+Message:pos is 62,3
+Message:pos is 65,6
+Message:pos is 66,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 53,4
+Message:pos is 53,9
+Message:pos is 62,3
+Message:pos is 65,6
+Message:pos is 66,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 53,4
+Message:pos is 53,9
+Message:pos is 61,3
+Message:pos is 64,6
+Message:pos is 65,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:       3
+
+Message:      34
+
+Message:the command bites are 20
+Message:current time counter is 338
+Message:key value is 57
+Message:the event time counter is 337
+Message:there should be a bullet...
+Message:the bullet pos is 8,8
+Message:re-run 338 timeCounter
+Message:pos is 5,8
+Message:pos is 52,4
+Message:pos is 52,9
+Message:pos is 61,3
+Message:pos is 64,6
+Message:pos is 65,13
+Message:pos is 8,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 52,4
+Message:pos is 52,9
+Message:pos is 61,3
+Message:pos is 64,6
+Message:pos is 65,13
+Message:pos is 9,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 52,4
+Message:pos is 52,9
+Message:pos is 60,3
+Message:pos is 63,6
+Message:pos is 64,13
+Message:pos is 10,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 51,4
+Message:pos is 51,9
+Message:pos is 60,3
+Message:pos is 63,6
+Message:pos is 64,13
+Message:pos is 10,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 51,4
+Message:pos is 51,9
+Message:pos is 59,3
+Message:pos is 62,6
+Message:pos is 63,13
+Message:pos is 11,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 50,4
+Message:pos is 50,9
+Message:pos is 59,3
+Message:pos is 62,6
+Message:pos is 63,13
+Message:pos is 11,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 50,4
+Message:pos is 50,9
+Message:pos is 59,3
+Message:pos is 62,6
+Message:pos is 63,13
+Message:pos is 12,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       6
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 50,4
+Message:pos is 50,9
+Message:pos is 58,3
+Message:pos is 61,6
+Message:pos is 62,13
+Message:pos is 12,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 49,4
+Message:pos is 49,9
+Message:pos is 58,3
+Message:pos is 61,6
+Message:pos is 62,13
+Message:pos is 13,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 49,4
+Message:pos is 49,9
+Message:pos is 57,3
+Message:pos is 60,6
+Message:pos is 61,13
+Message:pos is 13,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       6
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 48,4
+Message:pos is 48,9
+Message:pos is 57,3
+Message:pos is 60,6
+Message:pos is 61,13
+Message:pos is 14,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       7
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 48,4
+Message:pos is 48,9
+Message:pos is 57,3
+Message:pos is 60,6
+Message:pos is 61,13
+Message:pos is 14,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 48,4
+Message:pos is 48,9
+Message:pos is 56,3
+Message:pos is 59,6
+Message:pos is 60,13
+Message:pos is 15,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       5
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 47,4
+Message:pos is 47,9
+Message:pos is 56,3
+Message:pos is 59,6
+Message:pos is 60,13
+Message:pos is 15,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 47,4
+Message:pos is 47,9
+Message:pos is 55,3
+Message:pos is 58,6
+Message:pos is 59,13
+Message:pos is 16,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 46,4
+Message:pos is 46,9
+Message:pos is 55,3
+Message:pos is 58,6
+Message:pos is 59,13
+Message:pos is 16,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 46,4
+Message:pos is 46,9
+Message:pos is 55,3
+Message:pos is 58,6
+Message:pos is 59,13
+Message:pos is 17,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 46,4
+Message:pos is 46,9
+Message:pos is 54,3
+Message:pos is 57,6
+Message:pos is 58,13
+Message:pos is 17,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 45,4
+Message:pos is 45,9
+Message:pos is 54,3
+Message:pos is 57,6
+Message:pos is 58,13
+Message:pos is 18,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 45,4
+Message:pos is 45,9
+Message:pos is 53,3
+Message:pos is 56,6
+Message:pos is 57,13
+Message:pos is 18,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 44,4
+Message:pos is 44,9
+Message:pos is 53,3
+Message:pos is 56,6
+Message:pos is 57,13
+Message:pos is 19,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       5
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 44,4
+Message:pos is 44,9
+Message:pos is 53,3
+Message:pos is 56,6
+Message:pos is 57,13
+Message:pos is 19,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 44,4
+Message:pos is 44,9
+Message:pos is 52,3
+Message:pos is 55,6
+Message:pos is 56,13
+Message:pos is 20,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       6
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 43,4
+Message:pos is 43,9
+Message:pos is 52,3
+Message:pos is 55,6
+Message:pos is 56,13
+Message:pos is 20,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       6
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 43,4
+Message:pos is 43,9
+Message:pos is 51,3
+Message:pos is 54,6
+Message:pos is 55,13
+Message:pos is 21,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 42,4
+Message:pos is 42,9
+Message:pos is 51,3
+Message:pos is 54,6
+Message:pos is 55,13
+Message:pos is 21,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 42,4
+Message:pos is 42,9
+Message:pos is 51,3
+Message:pos is 54,6
+Message:pos is 55,13
+Message:pos is 22,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 42,4
+Message:pos is 42,9
+Message:pos is 50,3
+Message:pos is 53,6
+Message:pos is 54,13
+Message:pos is 22,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       5
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 41,4
+Message:pos is 41,9
+Message:pos is 50,3
+Message:pos is 53,6
+Message:pos is 54,13
+Message:pos is 23,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       5
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 41,4
+Message:pos is 41,9
+Message:pos is 49,3
+Message:pos is 52,6
+Message:pos is 53,13
+Message:pos is 23,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 40,4
+Message:pos is 40,9
+Message:pos is 49,3
+Message:pos is 52,6
+Message:pos is 53,13
+Message:pos is 24,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       5
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 40,4
+Message:pos is 40,9
+Message:pos is 49,3
+Message:pos is 52,6
+Message:pos is 53,13
+Message:pos is 24,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       6
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 40,4
+Message:pos is 40,9
+Message:pos is 48,3
+Message:pos is 51,6
+Message:pos is 52,13
+Message:pos is 25,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       5
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 39,4
+Message:pos is 39,9
+Message:pos is 48,3
+Message:pos is 51,6
+Message:pos is 52,13
+Message:pos is 25,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       8
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 39,4
+Message:pos is 39,9
+Message:pos is 47,3
+Message:pos is 50,6
+Message:pos is 51,13
+Message:pos is 26,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 38,4
+Message:pos is 38,9
+Message:pos is 47,3
+Message:pos is 50,6
+Message:pos is 51,13
+Message:pos is 26,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 38,4
+Message:pos is 38,9
+Message:pos is 47,3
+Message:pos is 50,6
+Message:pos is 51,13
+Message:pos is 27,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       5
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 38,4
+Message:pos is 38,9
+Message:pos is 46,3
+Message:pos is 49,6
+Message:pos is 50,13
+Message:pos is 27,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       7
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 37,4
+Message:pos is 37,9
+Message:pos is 46,3
+Message:pos is 49,6
+Message:pos is 50,13
+Message:pos is 28,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 37,4
+Message:pos is 37,9
+Message:pos is 45,3
+Message:pos is 48,6
+Message:pos is 49,13
+Message:pos is 28,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       6
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 36,4
+Message:pos is 36,9
+Message:pos is 45,3
+Message:pos is 48,6
+Message:pos is 49,13
+Message:pos is 29,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 36,4
+Message:pos is 36,9
+Message:pos is 45,3
+Message:pos is 48,6
+Message:pos is 49,13
+Message:pos is 29,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 36,4
+Message:pos is 36,9
+Message:pos is 44,3
+Message:pos is 47,6
+Message:pos is 48,13
+Message:pos is 30,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       6
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 35,4
+Message:pos is 35,9
+Message:pos is 44,3
+Message:pos is 47,6
+Message:pos is 48,13
+Message:pos is 30,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 35,4
+Message:pos is 35,9
+Message:pos is 43,3
+Message:pos is 46,6
+Message:pos is 47,13
+Message:pos is 31,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 34,4
+Message:pos is 34,9
+Message:pos is 43,3
+Message:pos is 46,6
+Message:pos is 47,13
+Message:pos is 31,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       5
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 34,4
+Message:pos is 34,9
+Message:pos is 43,3
+Message:pos is 46,6
+Message:pos is 47,13
+Message:pos is 32,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 34,4
+Message:pos is 34,9
+Message:pos is 42,3
+Message:pos is 45,6
+Message:pos is 46,13
+Message:pos is 32,8
+Message:the size of update list is1
+Message:the size of update list is2
+Message:there is a collision!...
+Message:the score is 11
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 33,4
+Message:pos is 34,9
+Message:pos is 42,3
+Message:pos is 45,6
+Message:pos is 46,13
+Message:pos is 33,8
+Message:pos is 76,5
+Message:pos is 76,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       7
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 33,4
+Message:pos is 41,3
+Message:pos is 44,6
+Message:pos is 45,13
+Message:pos is 75,5
+Message:pos is 75,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       6
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 32,4
+Message:pos is 41,3
+Message:pos is 44,6
+Message:pos is 45,13
+Message:pos is 75,5
+Message:pos is 75,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       5
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 32,4
+Message:pos is 41,3
+Message:pos is 44,6
+Message:pos is 45,13
+Message:pos is 74,5
+Message:pos is 74,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 32,4
+Message:pos is 40,3
+Message:pos is 43,6
+Message:pos is 44,13
+Message:pos is 74,5
+Message:pos is 74,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       6
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 31,4
+Message:pos is 40,3
+Message:pos is 43,6
+Message:pos is 44,13
+Message:pos is 73,5
+Message:pos is 73,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 31,4
+Message:pos is 39,3
+Message:pos is 42,6
+Message:pos is 43,13
+Message:pos is 73,5
+Message:pos is 73,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       5
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 30,4
+Message:pos is 39,3
+Message:pos is 42,6
+Message:pos is 43,13
+Message:pos is 73,5
+Message:pos is 73,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 30,4
+Message:pos is 39,3
+Message:pos is 42,6
+Message:pos is 43,13
+Message:pos is 72,5
+Message:pos is 72,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 30,4
+Message:pos is 38,3
+Message:pos is 41,6
+Message:pos is 42,13
+Message:pos is 72,5
+Message:pos is 72,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 29,4
+Message:pos is 38,3
+Message:pos is 41,6
+Message:pos is 42,13
+Message:pos is 71,5
+Message:pos is 71,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 29,4
+Message:pos is 37,3
+Message:pos is 40,6
+Message:pos is 41,13
+Message:pos is 71,5
+Message:pos is 71,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 28,4
+Message:pos is 37,3
+Message:pos is 40,6
+Message:pos is 41,13
+Message:pos is 71,5
+Message:pos is 71,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 28,4
+Message:pos is 37,3
+Message:pos is 40,6
+Message:pos is 41,13
+Message:pos is 70,5
+Message:pos is 70,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 28,4
+Message:pos is 36,3
+Message:pos is 39,6
+Message:pos is 40,13
+Message:pos is 70,5
+Message:pos is 70,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 27,4
+Message:pos is 36,3
+Message:pos is 39,6
+Message:pos is 40,13
+Message:pos is 69,5
+Message:pos is 69,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 27,4
+Message:pos is 35,3
+Message:pos is 38,6
+Message:pos is 39,13
+Message:pos is 69,5
+Message:pos is 69,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 26,4
+Message:pos is 35,3
+Message:pos is 38,6
+Message:pos is 39,13
+Message:pos is 69,5
+Message:pos is 69,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 26,4
+Message:pos is 35,3
+Message:pos is 38,6
+Message:pos is 39,13
+Message:pos is 68,5
+Message:pos is 68,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      33
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 26,4
+Message:pos is 34,3
+Message:pos is 37,6
+Message:pos is 38,13
+Message:pos is 68,5
+Message:pos is 68,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 25,4
+Message:pos is 34,3
+Message:pos is 37,6
+Message:pos is 38,13
+Message:pos is 67,5
+Message:pos is 67,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 25,4
+Message:pos is 33,3
+Message:pos is 36,6
+Message:pos is 37,13
+Message:pos is 67,5
+Message:pos is 67,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 24,4
+Message:pos is 33,3
+Message:pos is 36,6
+Message:pos is 37,13
+Message:pos is 67,5
+Message:pos is 67,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 24,4
+Message:pos is 33,3
+Message:pos is 36,6
+Message:pos is 37,13
+Message:pos is 66,5
+Message:pos is 66,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 24,4
+Message:pos is 32,3
+Message:pos is 35,6
+Message:pos is 36,13
+Message:pos is 66,5
+Message:pos is 66,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       3
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 23,4
+Message:pos is 32,3
+Message:pos is 35,6
+Message:pos is 36,13
+Message:pos is 65,5
+Message:pos is 65,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       7
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 23,4
+Message:pos is 31,3
+Message:pos is 34,6
+Message:pos is 35,13
+Message:pos is 65,5
+Message:pos is 65,13
+Message:the size of update list is1
+Message:the size of update list is2
+Message:the size of update list is3
+Message:the size of update list is4
+Message:the size of update list is5
+Message:the size of update list is6
+Message:the size of update list is7
+Message:       4
+
+Message:      34
+
+Message:the command bites are 0
+Message:pos is 5,8
+Message:pos is 22,4
+Message:pos is 31,3
+Message:pos is 34,6
+Message:pos

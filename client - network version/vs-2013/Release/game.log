@@ -1,0 +1,6 @@
+﻿  game.cpp
+g:\imgd\game engine of df\client - network version\vs-2013\s_Music.h(13): warning C4227: anachronism used: qualifiers on reference are ignored
+g:\imgd\game engine of df\client - network version\vs-2013\s_Music.h(14): warning C4227: anachronism used: qualifiers on reference are ignored
+g:\imgd\game engine of df\client - network version\vs-2013\s_NetworkManager.h(5): warning C4081: expected '('; found 'newline'
+     Creating library G:\IMGD\game engine of DF\client - network version\vs-2013\Release\client.lib and object G:\IMGD\game engine of DF\client - network version\vs-2013\Release\client.exp
+  game.vcxproj -> G:\IMGD\game engine of DF\client - network version\vs-2013\Release\client.exe

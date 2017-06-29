@@ -1,0 +1,5 @@
+﻿  game.cpp
+g:\imgd\game engine of df\game0\vs-2013\s_music.h(13): warning C4227: anachronism used : qualifiers on reference are ignored
+g:\imgd\game engine of df\game0\vs-2013\s_music.h(14): warning C4227: anachronism used : qualifiers on reference are ignored
+g:\imgd\game engine of df\game0\vs-2013\s_networkmanager.h(5): warning C4081: expected '('; found 'newline'
+  game.vcxproj -> G:\IMGD\game engine of DF\game0\vs-2013\Debug\game.exe

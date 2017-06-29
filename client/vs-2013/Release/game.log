@@ -1,0 +1,30 @@
+﻿  s_GraphicsManager.cpp
+g:\imgd\game engine of df\client\vs-2013\s_NetworkManager.h(5): warning C4081: expected '('; found 'newline'
+s_GraphicsManager.cpp(16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+s_GraphicsManager.cpp(23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+s_GraphicsManager.cpp(87): warning C4996: 'sf::Text::setColor': was declared deprecated
+  G:\IMGD\game engine of DF\client\SFML-2.4\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+s_GraphicsManager.cpp(168): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+s_GraphicsManager.cpp(150): warning C4996: 'sf::Text::setColor': was declared deprecated
+  G:\IMGD\game engine of DF\client\SFML-2.4\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+s_GraphicsManager.cpp(152): warning C4996: 'sf::Text::setColor': was declared deprecated
+  G:\IMGD\game engine of DF\client\SFML-2.4\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+s_GraphicsManager.cpp(154): warning C4996: 'sf::Text::setColor': was declared deprecated
+  G:\IMGD\game engine of DF\client\SFML-2.4\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+s_GraphicsManager.cpp(156): warning C4996: 'sf::Text::setColor': was declared deprecated
+  G:\IMGD\game engine of DF\client\SFML-2.4\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+s_GraphicsManager.cpp(158): warning C4996: 'sf::Text::setColor': was declared deprecated
+  G:\IMGD\game engine of DF\client\SFML-2.4\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+s_GraphicsManager.cpp(160): warning C4996: 'sf::Text::setColor': was declared deprecated
+  G:\IMGD\game engine of DF\client\SFML-2.4\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+s_GraphicsManager.cpp(162): warning C4996: 'sf::Text::setColor': was declared deprecated
+  G:\IMGD\game engine of DF\client\SFML-2.4\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+s_GraphicsManager.cpp(164): warning C4996: 'sf::Text::setColor': was declared deprecated
+  G:\IMGD\game engine of DF\client\SFML-2.4\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+s_GraphicsManager.cpp(209): warning C4018: '<': signed/unsigned mismatch
+s_GraphicsManager.cpp(277): warning C4996: 'sf::RenderWindow::capture': was declared deprecated
+  G:\IMGD\game engine of DF\client\SFML-2.4\include\SFML/Graphics/RenderWindow.hpp(140): note: see declaration of 'sf::RenderWindow::capture'
+g:\imgd\game engine of df\client\vs-2013\s_graphicsmanager.cpp(177): warning C4715: 'df::s_GraphicsManager::drawCh': not all control paths return a value
+g:\imgd\game engine of df\client\vs-2013\s_graphicsmanager.cpp(250): warning C4715: 'df::s_GraphicsManager::drawFrame': not all control paths return a value
+     Creating library G:\IMGD\game engine of DF\client\vs-2013\Release\client.lib and object G:\IMGD\game engine of DF\client\vs-2013\Release\client.exp
+  game.vcxproj -> G:\IMGD\game engine of DF\client\vs-2013\Release\client.exe

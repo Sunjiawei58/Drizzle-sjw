@@ -1,0 +1,13 @@
+21:38:13    0 ****************************************************
+21:38:13    0 ** Dragonfly version 4.1 **
+21:38:14    0 GameManager::run(): Can't keep up! frame_time 33 ms, split 205 ms
+21:38:14    1 GameManager::run(): Can't keep up! frame_time 33 ms, split 145 ms
+21:38:27  309 GameManager::run(): Can't keep up! frame_time 33 ms, split 96 ms
+21:38:33  468 GameManager::run(): Can't keep up! frame_time 33 ms, split 97 ms
+21:38:46  851 GameManager::run(): Can't keep up! frame_time 33 ms, split 94 ms
+21:39:04 1311 GameManager::run(): Can't keep up! frame_time 33 ms, split 3219 ms
+21:39:06 1364 GameManager::run(): Can't keep up! frame_time 33 ms, split 93 ms
+21:39:10 1485 GameManager::run(): Can't keep up! frame_time 33 ms, split 94 ms
+21:39:10 1499 GameManager::run(): Can't keep up! frame_time 33 ms, split 125 ms
+21:39:10 1500 ** Game stopped **
+21:39:10 1500 ****************************************************
